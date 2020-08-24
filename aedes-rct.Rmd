@@ -145,7 +145,7 @@ style_mono_accent(
 
 * The Facebook advertisement directed potential participants to a Google Form in which participants were told about the job and asked to leave an email address if interested 
 
-* Using the e-mail address, we a Qualtrics survey with pre-treatment demographic questions
+* Using the e-mail address, we ran a Qualtrics survey with pre-treatment demographic questions
 
 * To be eligible for the experiment, subjects should be over 18 years of age and had completed their participation in the field experiment
 
@@ -174,7 +174,7 @@ style_mono_accent(
 
 *  To avoid spillover, we directed them to three separate headquarters (HQs), one for each treatment, geographically distanced from one another
 
-* Participants knew about other groups, but unaware of the different payment schemes
+* Participants knew about other groups, but were unaware of the different payment schemes
 
 ---
 
@@ -348,7 +348,7 @@ style_mono_accent(
 
 --
 
-* Rio Verde had a significant rates of dengue incidence, reaching 3,411 reported infections from January to September 2018
+* Rio Verde had significant rates of dengue incidence, reaching 3,411 reported infections from January to September 2018
 
   - Maybe the treatment only works when applied for longer periods of time or in more neighbourhoods
 
@@ -365,7 +365,7 @@ style_mono_accent(
 
 * Both treatments increase the number of breeding sites the workers find
 
-* Collective incentives outperforms individual performance rewards when the task is more laborious and excludable (exterminating larvae)
+* Collective incentives outperform individual performance rewards when the task is more laborious and excludable (exterminating larvae)
 
 ---
 
