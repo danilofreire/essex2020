@@ -1,8 +1,8 @@
 ---
-title: "Incentives in Health Care Prevention:"
-subtitle: "Evidence from an Experimental *Aedes Aegypti* Control Programme in Brazil"
-author: "Danilo Freire, Brown University"
-date: "Umberto Mignozzetti, Emory University <br><br> 25/08/2020"
+title: "Incentives in Health Care Prevention: <br><br>Evidence from an Experimental *Aedes Aegypti* Control Programme in Brazil <br> <br><br><br>"
+subtitle: ""
+author: "Danilo Freire, Brown University <br><br> Umberto Mignozzetti, Emory University <br><br>"
+date: "25/08/2020"
 output: 
   xaringan::moon_reader:
     css: xaringan-themer.css
@@ -21,6 +21,7 @@ library(xaringanthemer)
 style_mono_accent(
   base_color = "#1c5253",
   header_h1_font_size = "2.25rem",
+  header_h2_font_size = "1.85rem",
   header_font_google  = google_font("Josefin Sans"),
   text_font_google    = google_font("Montserrat", "300", "300i"),
   text_font_size      = "1.2rem",
