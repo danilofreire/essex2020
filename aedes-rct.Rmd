@@ -100,7 +100,7 @@ style_mono_accent(
 
 * Taken together, the intervention decreased the disease incidence in 10.3%, but the results are not robust 
 
-* Overall, we show that performance bonuses does increase productivity in public health care
+* Overall, we show that performance bonuses do increase productivity in public service provision
 
 * Small financial incentives to health care workers can significantly reduce public health care costs on clinics and hospitals
 
