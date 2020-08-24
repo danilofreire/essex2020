@@ -1,7 +1,7 @@
 ---
-title: "Incentives in Health Care Prevention: <br><br>Evidence from an Experimental *Aedes Aegypti* Control Programme in Brazil <br> <br><br><br>"
+title: "Incentives in Health Care Prevention: <br>Evidence from an Experimental *Aedes Aegypti* Control Programme in Brazil <br> <br><br><br>"
 subtitle: ""
-author: "Danilo Freire, Brown University <br><br> Umberto Mignozzetti, Emory University <br><br>"
+author: "Danilo Freire, Brown University <br> Umberto Mignozzetti, Emory University <br><br>"
 date: "25/08/2020"
 output: 
   xaringan::moon_reader:
