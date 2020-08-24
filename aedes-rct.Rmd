@@ -17,6 +17,10 @@ output:
 
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
 options(htmltools.dir.version = FALSE)
+list.of.packages <- c("xaringan", "xaringanthemer")
+new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
+if(length(new.packages)) install.packages(new.packages)
+
 library(xaringanthemer)
 style_mono_accent(
   base_color = "#1c5253",
