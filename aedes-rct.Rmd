@@ -1,12 +1,12 @@
 ---
-title: "Incentives in Health Care Prevention: <br>Evidence from an Experimental *Aedes Aegypti* Control Programme in Brazil <br> <br><br><br>"
+title: "Incentives in Health Care Prevention: <br> Evidence from an Experimental *Aedes Aegypti* Control Programme in Brazil <br><br><br><br>"
 subtitle: ""
 author: "Danilo Freire, Brown University <br> Umberto Mignozzetti, Emory University <br><br>"
 date: "25/08/2020"
-output: 
+output:
   xaringan::moon_reader:
     css: xaringan-themer.css
-    nature: 
+    nature:
       beforeInit: "macros.js"
       highlightStyle: github
       ratio: 16:10
@@ -28,7 +28,7 @@ style_mono_accent(
   header_h2_font_size = "1.85rem",
   header_font_google  = google_font("Josefin Sans"),
   text_font_google    = google_font("Montserrat", "300", "300i"),
-  text_font_size      = "1.2rem",
+  text_font_size      = "1.25rem",
   code_font_google    = google_font("Fira Mono")
 )
 ```
@@ -87,23 +87,23 @@ style_mono_accent(
 
 * We run a field experiment to measure the impact of different bonus schemes on the productivity of health care workers
 
-* More specifically, we hired and trained subjects that had to visit houses and help residents to exterminate mosquito breeding sites in the city of Rio Verde, Brazil
+* More specifically, we hired and trained subjects to visit households and help residents to exterminate mosquito breeding sites in the city of Rio Verde, Brazil
 
 * We chose Rio Verde as the *Aedes* mosquito is endemic to the city and in 2017 (one year prior to our experiment) Rio Verde had a high number of dengue infections
 
-* We assigned performance monetary rewards in the form of individual and peer performance bonuses
+* We assigned individual and collective performance bonuses to two groups
 
-* We measured if the experiment had an impact on the number of houses visited, time spent on each household, the number of breeding sites removed, the number of larvae exterminated, and dengue incidence
+* We measured if the experiment had an impact on the number of houses visited, the time spent on each household, the number of breeding sites removed, the number of larvae exterminated, and dengue incidence
 
 ---
 
-# What we find 
+# What we find
 
-* We find that bonuses increased the number of cleaned breeding sites in both treatment status (individual and team bonuses) and team bonuses also improved larvae extermination 
+* We find that bonuses increased the number of cleaned breeding sites in both treatment status (individual and team bonuses) and team bonuses also improved larvae extermination
 
 * Control group presented a high incidence of houses visited in less than two minutes apart from each other, which suggests that the workers may cheat in the absence of financial incentives
 
-* Taken together, the intervention decreased the disease incidence in 10.3%, but the results are not robust 
+* Taken together, the intervention decreased the disease incidence in 10.3%, but the results are not robust
 
 * Overall, we show that performance bonuses do increase productivity in public service provision
 
@@ -141,13 +141,21 @@ style_mono_accent(
 
 ---
 
+# Rio Verde
+
+.center[Disease incidence in Rio Verde]
+
+.center[![:scale 50%](incidence.png)]
+
+---
+
 # Recruitment
 
 * Our goal was to select and train a group of participants to visit households in all neighbourhoods in Rio Verde
 
 * We used Facebook advertisements to publicise our job offer
 
-* The Facebook advertisement directed potential participants to a Google Form in which participants were told about the job and asked to leave an email address if interested 
+* The Facebook advertisement directed potential participants to a Google Form in which participants were told about the job and asked to leave an email address if interested
 
 * Using the e-mail address, we ran a Qualtrics survey with pre-treatment demographic questions
 
@@ -170,9 +178,9 @@ style_mono_accent(
 # Randomisation and masking
 
 * We assigned participants to three types of monetary incentives:
-  - Flat compensation regardless of performance (control group)
-  - Individual performance bonus (individual treatment)
-  - Peer performance bonus (collective treatment)
+  - Flat compensation regardless of performance (**control group**)
+  - Individual performance bonus (**individual treatment**)
+  - Peer performance bonus (**collective treatment**)
 
 * Block randomisation applied on seven variables computed from pre-intervention surveys
 
@@ -216,7 +224,7 @@ style_mono_accent(
 
 * **Individual group**: double the compensation for anyone whose performance was above the median (baseline: 20 USD)
 
-* **Collective treatment group**: double the compensation for each team whose performance was above the median (baseline: 40 dollars per pair) 
+* **Collective treatment group**: double the compensation for each team whose performance was above the median (baseline: 40 dollars per pair)
 
 * We had about 65 people per group
 
@@ -379,7 +387,7 @@ style_mono_accent(
 
 * First, financial incentives do work for individuals doing public service
 
-* Second, collective bonuses work better than individual incentives 
+* Second, collective bonuses work better than individual incentives
 
 * Lastly, and importantly, higher field productivity *does not* guarantee that the *Aedes aegypti* can be eradicated
 
@@ -387,7 +395,7 @@ style_mono_accent(
 
 ---
 
-class: center, middle, inverse 
+class: center, middle, inverse
 
 # Thank you very much! :)
 
@@ -395,12 +403,12 @@ class: center, middle, inverse
 
 # Let's keep in touch!
 
-* Danilo Freire: 
+* Danilo Freire:
 
   - [danilofreire@gmail.com](mailto:danilofreire@gmail.com)
   - <http://danilofreire.github.io>
 
-* Umberto Mignozzetti: 
+* Umberto Mignozzetti:
 
   - [umberto.mig@gmail.com](mailto:umberto.mig@gmail.com)
   - <http://umbertomig.com>
